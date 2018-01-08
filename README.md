@@ -5,7 +5,7 @@
 This is a tutorial.
 
 ```c++
-int main(){ //This is a way to show code.`
+int main(){ //This is a way to show code.
    std::cout << "sample";
 }
 ```
